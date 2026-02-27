@@ -1,0 +1,164 @@
+============================================================
+ENERGY CONSUMPTION SUMMARY - ITERATION 39
+============================================================
+
+UAV 0:
+  Initial Energy: 122466.95 J
+  Final Energy: 0.00 J
+  Min Energy: 0.00 J
+  Total Consumed: 122466.95 J
+  Lifetime: 75 steps
+  Energy/Step: 1632.89 J
+
+UAV 1:
+  Initial Energy: 122466.94 J
+  Final Energy: 0.00 J
+  Min Energy: 0.00 J
+  Total Consumed: 122466.94 J
+  Lifetime: 75 steps
+  Energy/Step: 1632.89 J
+
+UAV 2:
+  Initial Energy: 122466.95 J
+  Final Energy: 0.00 J
+  Min Energy: 0.00 J
+  Total Consumed: 122466.95 J
+  Lifetime: 75 steps
+  Energy/Step: 1632.89 J
+
+UAV 3:
+  Initial Energy: 122466.95 J
+  Final Energy: 0.00 J
+  Min Energy: 0.00 J
+  Total Consumed: 122466.95 J
+  Lifetime: 75 steps
+  Energy/Step: 1632.89 J
+
+UAV 4:
+  Initial Energy: 122466.95 J
+  Final Energy: 0.00 J
+  Min Energy: 0.00 J
+  Total Consumed: 122466.95 J
+  Lifetime: 75 steps
+  Energy/Step: 1632.89 J
+
+UAV 5:
+  Initial Energy: 122703.80 J
+  Final Energy: 0.00 J
+  Min Energy: 0.00 J
+  Total Consumed: 122703.80 J
+  Lifetime: 75 steps
+  Energy/Step: 1636.05 J
+
+UAV 6:
+  Initial Energy: 122498.95 J
+  Final Energy: 0.00 J
+  Min Energy: 0.00 J
+  Total Consumed: 122498.95 J
+  Lifetime: 75 steps
+  Energy/Step: 1633.32 J
+
+UAV 7:
+  Initial Energy: 122498.92 J
+  Final Energy: 0.00 J
+  Min Energy: 0.00 J
+  Total Consumed: 122498.92 J
+  Lifetime: 75 steps
+  Energy/Step: 1633.32 J
+
+UAV 8:
+  Initial Energy: 122498.94 J
+  Final Energy: 0.00 J
+  Min Energy: 0.00 J
+  Total Consumed: 122498.94 J
+  Lifetime: 75 steps
+  Energy/Step: 1633.32 J
+
+UAV 9:
+  Initial Energy: 122498.92 J
+  Final Energy: 9916.33 J
+  Min Energy: 9916.33 J
+  Total Consumed: 112582.59 J
+  Lifetime: 75 steps
+  Energy/Step: 1501.10 J
+
+UAV 10:
+  Initial Energy: 122498.90 J
+  Final Energy: 14686.24 J
+  Min Energy: 14686.24 J
+  Total Consumed: 107812.66 J
+  Lifetime: 75 steps
+  Energy/Step: 1437.50 J
+
+UAV 11:
+  Initial Energy: 122498.92 J
+  Final Energy: 28994.08 J
+  Min Energy: 28994.08 J
+  Total Consumed: 93504.84 J
+  Lifetime: 75 steps
+  Energy/Step: 1246.73 J
+
+UAV 12:
+  Initial Energy: 122498.91 J
+  Final Energy: 44722.33 J
+  Min Energy: 44722.33 J
+  Total Consumed: 77776.58 J
+  Lifetime: 75 steps
+  Energy/Step: 1037.02 J
+
+UAV 13:
+  Initial Energy: 122498.95 J
+  Final Energy: 57363.44 J
+  Min Energy: 57363.44 J
+  Total Consumed: 65135.51 J
+  Lifetime: 75 steps
+  Energy/Step: 868.47 J
+
+UAV 14:
+  Initial Energy: 122498.95 J
+  Final Energy: 70749.47 J
+  Min Energy: 70749.47 J
+  Total Consumed: 51749.48 J
+  Lifetime: 75 steps
+  Energy/Step: 689.99 J
+
+UAV 15:
+  Initial Energy: 122498.93 J
+  Final Energy: 80496.05 J
+  Min Energy: 80496.05 J
+  Total Consumed: 42002.88 J
+  Lifetime: 75 steps
+  Energy/Step: 560.04 J
+
+UAV 16:
+  Initial Energy: 122498.95 J
+  Final Energy: 87470.37 J
+  Min Energy: 87470.37 J
+  Total Consumed: 35028.58 J
+  Lifetime: 75 steps
+  Energy/Step: 467.05 J
+
+UAV 17:
+  Initial Energy: 122498.94 J
+  Final Energy: 104315.88 J
+  Min Energy: 104315.88 J
+  Total Consumed: 18183.06 J
+  Lifetime: 75 steps
+  Energy/Step: 242.44 J
+
+UAV 18:
+  Initial Energy: 122498.95 J
+  Final Energy: 111311.88 J
+  Min Energy: 111311.88 J
+  Total Consumed: 11187.07 J
+  Lifetime: 75 steps
+  Energy/Step: 149.16 J
+
+============================================================
+OVERALL STATISTICS
+============================================================
+Total UAVs: 19
+Total Initial Energy: 2327524.66 J
+Total Final Energy: 610026.07 J
+Total Energy Consumed: 1717498.59 J
+Average Energy/UAV: 90394.66 J
