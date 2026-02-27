@@ -1,0 +1,27 @@
+=== Simulation Summary - Iteration 14 ===
+Field Size: 30.0 km x 30.0 km
+Number of UAVs: 19
+Number of Users: 200
+Simulation Duration: 75 seconds
+UAV Height: 1500 m
+Access Link Range: 3300 m
+Backhaul Link Range: 8200 m
+
+=== Algorithm Weights ===
+Coverage Weight (w_C): 0.7
+Hotspot Weight (w_H):  0.3
+Neighbor Beta (β):     0.3
+
+=== Final Results ===
+iteration: 14
+time: 75
+no_uav: 9
+coverage_obtained: 71.5
+message_passing: 6278
+no_backhaul_links: 17
+uavs_connected: 9
+
+=== Average Values ===
+Average Coverage:        69.58%
+Average Messages:        2715.04
+Average Backhaul Links:  20.91
