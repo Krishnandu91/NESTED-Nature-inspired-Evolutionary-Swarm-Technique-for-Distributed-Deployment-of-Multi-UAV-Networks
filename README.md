@@ -118,10 +118,10 @@ python Main.py
 You will be prompted to choose which iterations to animate:
 
 ```
-Enter 0         : No visualization
-Enter 1         : Only the first iteration
-Enter N         : First N iterations
-Enter 1,3,5     : Specific iterations (comma-separated)
+Enter 0        : No visualization
+Enter 1        : Only the first iteration
+Enter N        : First N iterations
+Enter 1,3,5    : Specific iterations (comma-separated)
 ```
 
 ---
@@ -142,6 +142,6 @@ All outputs are saved to the `results/` directory:
 | simulation_summary_iter<N>.txt | Simulation configuration & average metrics |
 
 Animations are saved to `visualizations/`:
-- **simulation_animation.gif**
+- simulation_animation.gif
 
 ```
